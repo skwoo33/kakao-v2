@@ -16,8 +16,9 @@
 }
 
 body {
-  /* background-color: white; */
-  background: linear-gradient(to right, #578989, #8080D6);
+  /* background: linear-gradient(to right, #578989, #8080D6); */
+  background: linear-gradient(to right, #568A89, #52738A);
+  /* background: linear-gradient(to right, #52708A, #4C4E80); */
   padding: 10px 20px;
   color: #020202;
   font-family: 'Open Sans', sans-serif;
