@@ -16,7 +16,8 @@
 }
 
 body {
-  background-color: white;
+  /* background-color: white; */
+  background: linear-gradient(to right, #578989, #8080D6);
   padding: 10px 20px;
   color: #020202;
   font-family: 'Open Sans', sans-serif;
